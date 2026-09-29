@@ -3,5 +3,4 @@ export interface SatellitePosition {
     dinamicaOrbital : number;
     perspectiva : string;
     timestamp : number;
-q
 }
